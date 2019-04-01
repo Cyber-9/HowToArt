@@ -1,4 +1,4 @@
-/*instantInspo page*/
+/*lessons page*/
 /*These(body-background) are called for the entire instantInspo page.*/
 body {    
     overflow-x: hidden; 
@@ -330,4 +330,5 @@ div:hover {
 .tryIt {               
     width: 43.04vw;    
     top: 210.5vw;          
-    left: 25.7vw; 
+    left: 25.7vw;  
+}
